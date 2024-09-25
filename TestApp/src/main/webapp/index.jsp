@@ -10,5 +10,8 @@
 <h1>Welcome</h1>
 <hr/>
 <h2>Home Page</h2>
+<nav>
+   <div><a href="TaxForm.jsp">CalculateTax</a></div>
+</nav>
 </body>
 </html>
