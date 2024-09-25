@@ -12,6 +12,8 @@
 <h2>Home Page</h2>
 <nav>
    <div><a href="TaxForm.jsp">CalculateTax</a></div>
+   <div><a href="SkillForm.jsp">Update Your Skills</a></div>
+
 </nav>
 </body>
 </html>
